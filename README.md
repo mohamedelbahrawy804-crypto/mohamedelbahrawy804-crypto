@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97" width="100%" alt="coding banner" />
+  <img src="https://img.shields.io/badge/Code-Developer-informational?style=flat&logo=codesandbox&logoColor=white&color=00AEEF" alt="Code Icon" />
 </p>
-
 <h1 align="center">Hi there 👋 I'm <strong>Mohamed</strong></h1>
 
 <p align="center">
