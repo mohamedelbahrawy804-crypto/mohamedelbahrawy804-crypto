@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c" width="100%" alt="coding banner" />
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97" width="100%" alt="coding banner" />
 </p>
-
 
 <h1 align="center">Hi there 👋 I'm <strong>Mohamed</strong></h1>
 
