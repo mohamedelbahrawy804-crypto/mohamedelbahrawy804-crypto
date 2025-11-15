@@ -1,7 +1,7 @@
 <p align="center">
-  <!-- ضع هنا رابط الصورة اللي انت عايزها -->
-  <img src="https://i.imgur.com/GrLQZ2f.png" width="280" alt="profile banner" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c" width="100%" alt="coding banner" />
 </p>
+
 
 <h1 align="center">Hi there 👋 I'm <strong>Mohamed</strong></h1>
 
