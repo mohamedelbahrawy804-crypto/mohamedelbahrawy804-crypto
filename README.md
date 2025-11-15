@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **HTML, CSS, Sass, JavaScript**
 - 🎯 هدفي إني أبقى **Front-End Developer محترف**
 - 💻 بشتغل على مشاريع صغيرة لتقوية الـ DOM + Events
-- ⚡ بحب ألعاب **Spider-Man & GTA**
 
 ---
 
@@ -46,5 +45,3 @@
 </p>
 
 ---
-
-<p align="center">⭐ لو عجبتك شغلي ادّيني Star على الريبو! ⭐</p>
