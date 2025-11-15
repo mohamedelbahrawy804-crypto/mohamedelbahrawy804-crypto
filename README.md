@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mohamed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=500&lines=Front+End+Developer+in+Progress;Learning+HTML%2C+CSS%2C+Sass%2C+JS;Future+React+Developer+🔥" alt="Typing SVG" />
+  <img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" alt="Typing SVG" />
 </p>
 
 ---
